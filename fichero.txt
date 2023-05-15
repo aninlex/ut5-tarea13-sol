@@ -1,0 +1,25 @@
+Clasificacion de liga
+┌─────┬──────────────────────┬──────┬────┬────┐
+│ Pos │ Equipo               │ Pts  │ GF │ GC │
+├─────┼──────────────────────┼──────┼────┼────┤
+│ 1   │ Getafe               │ 14   │ 11 │ 6  │
+│ 2   │ Malaga               │ 10   │ 9  │ 6  │
+│ 3   │ Barcelona            │ 9    │ 11 │ 7  │
+│ 4   │ Valencia             │ 9    │ 10 │ 9  │
+│ 5   │ Deportivo            │ 9    │ 6  │ 5  │
+│ 6   │ Osasuna              │ 9    │ 5  │ 5  │
+│ 7   │ Zaragoza             │ 8    │ 8  │ 6  │
+│ 8   │ Real Sociedad        │ 7    │ 9  │ 14 │
+│ 9   │ Atletico Madrid      │ 7    │ 6  │ 6  │
+│ 10  │ Real Madrid          │ 6    │ 7  │ 6  │
+│ 11  │ Celta                │ 6    │ 5  │ 6  │
+│ 12  │ Betis                │ 6    │ 4  │ 7  │
+│ 13  │ Espanyol             │ 6    │ 3  │ 4  │
+│ 14  │ Racing Santander     │ 6    │ 2  │ 2  │
+│ 15  │ Cadiz                │ 5    │ 3  │ 3  │
+│ 16  │ Sevilla              │ 5    │ 2  │ 2  │
+│ 17  │ Mallorca             │ 4    │ 7  │ 10 │
+│ 18  │ Athletic             │ 4    │ 6  │ 6  │
+│ 19  │ Alaves               │ 2    │ 4  │ 6  │
+│ 20  │ Villarreal           │ 2    │ 4  │ 6  │
+└─────┴──────────────────────┴──────┴────┴────┘
